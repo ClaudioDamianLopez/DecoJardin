@@ -37,7 +37,7 @@ header {
   height: 600px;
   background: #dd3e54; /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #6be5859d, #dd3e53b7),
-    url(../IMG/8.jpg); /* Chrome 10-25, Safari 5.1-6 */
+    url(../IMG/flores-colores-696x391.jpg); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #6be5859d, #dd3e53b7), url(../IMG/8.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   background-size: cover;
   background-attachment: fixed;
